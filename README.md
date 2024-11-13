@@ -1,2 +1,2 @@
-# quoriterm
-A terminal based quoridor clone
+# Quoriterm
+A terminal based quoridor clone made in go
